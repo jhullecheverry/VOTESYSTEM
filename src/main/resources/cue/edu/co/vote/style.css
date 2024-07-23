@@ -1,0 +1,126 @@
+.root {
+    -fx-background-color: #f0f0f0;
+}
+
+.button {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #333333;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-padding: 10px;
+}
+
+.button:hover {
+    -fx-background-color: #e0e0e0;
+}
+
+.button:pressed {
+    -fx-background-color: #d0d0d0;
+}
+
+/* RegisterView */
+.root-register {
+    -fx-background-color: #f0f0f0;
+}
+
+.button-register {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #333333;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-padding: 10px;
+}
+
+.button-register:hover {
+    -fx-background-color: #e0e0e0;
+}
+
+.button-register:pressed {
+    -fx-background-color: #d0d0d0;
+}
+
+/* VoteSelectionView */
+.root-vote {
+    -fx-background-color: #f0f0f0;
+}
+
+.button-vote {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #333333;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-padding: 10px;
+}
+
+.button-vote:hover {
+    -fx-background-color: #e0e0e0;
+}
+
+.button-vote:pressed {
+    -fx-background-color: #d0d0d0;
+}
+
+.candidate-box {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.label-vote {
+    -fx-font-size: 14px;
+    -fx-text-fill: #333333;
+}
+
+/* Voting */
+.root-voting {
+    -fx-background-color: #f0f0f0;
+}
+
+.button-voting {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #333333;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-padding: 10px;
+}
+
+.button-voting:hover {
+    -fx-background-color: #e0e0e0;
+}
+
+.button-voting:pressed {
+    -fx-background-color: #d0d0d0;
+}
+
+.label-voting {
+    -fx-font-size: 14px;
+    -fx-text-fill: #333333;
+}
+
+.text-field-voting {
+    -fx-font-size: 14px;
+    -fx-text-fill: #333333;
+    -fx-border-color: #cccccc;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-padding: 10px;
+}
